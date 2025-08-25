@@ -73,6 +73,20 @@ TempTrend is a **live weather tracking project** that provides real-time updates
 
 ---
 
+## 🔎 EDA Workflow (7 Steps)
+
+This project also explores **Exploratory Data Analysis (EDA)** to understand and analyze weather data. Here are the seven key steps:
+
+1. **Understand the Problem / Define Objective** – Identify the purpose of analysis (e.g., predicting weather trends).
+2. **Data Collection** – Gather data from APIs, databases, or CSV files.
+3. **Data Cleaning** – Handle missing values, duplicates, outliers, and standardize formats.
+4. **Data Profiling & Exploration** – Check data types, shape, and summary statistics.
+5. **Univariate & Bivariate Analysis** – Study individual variables and relationships (e.g., temperature vs humidity).
+6. **Data Visualization** – Use charts (histograms, scatter plots, heatmaps, line charts) to spot patterns and trends.
+7. **Feature Engineering & Insights** – Create new features (e.g., season, feels-like temp) and extract insights for modeling.
+
+---
+
 ## 🏆 Outcome
 
 TempTrend is a practical project that brings together **data science, API integration, and web development** to create a real-time weather tracking system. It helps users make informed decisions by analyzing and visualizing weather patterns effectively.
